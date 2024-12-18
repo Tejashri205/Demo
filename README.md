@@ -1,4 +1,4 @@
-# Demo
+cd# Demo
 This is my first Git Repository
 <br>
-Author- Tejashri Patil
+Author- Tejashri Patil(Pawar)
